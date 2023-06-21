@@ -45,7 +45,7 @@ Proje sayımız ilerledikçe proje yönetimimizi kolaylaştırmak adına projele
 
 ### Uygulamayı Test Etmek
 
-Test etmek için aşağıdaki gibi bir kod yazdığımızda. Hiçbir hata almadan beklenildiği gibi her şey çalışmalı.
+Test etmek için aşağıdaki gibi bir kod yazdığımızda, hiçbir hata almadan beklenildiği gibi her şey çalışmalı.
 
 INPUT
 
