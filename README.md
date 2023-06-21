@@ -8,7 +8,7 @@ Proje sayımız ilerledikçe proje yönetimimizi kolaylaştırmak adına projele
 
 ### Hedeflerimiz:
  
- Uygulamamız da toplam Main sınıfı hariç 5 sınıftan fazla sınıf oluşturmamalıyız.
+ Uygulamamız da Main sınıfı hariç toplam 5 sınıftan fazla sınıf oluşturmamalıyız.
 
 
 ### Lamp
