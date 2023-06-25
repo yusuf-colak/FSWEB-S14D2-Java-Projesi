@@ -1,4 +1,4 @@
-# Java s2g3 - Composition
+# Java Composition
 
 ### Proje Kurulumu
 
