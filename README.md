@@ -27,13 +27,13 @@ Sınıf yazmaya doyduğunuz bir proje olması dileklerimle....
 ### Wardrobe 
 * Wardrobe isminde bir sınıf yazınız. 
 * Wardrobe sınıfı için 3 adet ```instance variable``` tanımlayınız. ```int width, int height, double weight``` Hepsi private olmalı.
-* Wardrobe sınıfı için getter metodlarını yazınız.
+* Wardrobe sınıfı için constructor & getter metodlarını yazınız.
 * Wardrobe sınıfı içerisinde ```add``` isminde bir metod tanımlayınız. Herhangi bir değer dönmeyecek. Sadece 'Wardrobe added into Bedroom.' mesajını ekrana basacak.
 
 ### Carpet
 * Carpet isminde bir sınıf yazınız.
 * Carpet sınıfı için 3 adet ```instance variable``` tanımlayınız. ```int width, int height, PaintColor color``` Hepsi private olmalı.
-* Carpet sınıfı için getter metodlarını yazınız.
+* Carpet sınıfı için constructor & getter metodlarını yazınız.
 * Carpet sınıfı içerisinde ```lying``` isminde bir metod tanımlayınız. Herhangi bir değer dönmeyecek. Sadece 'Carpet is lying on Bedroom floor.' mesajını ekrana basacak.
 
 ### Ceiling
