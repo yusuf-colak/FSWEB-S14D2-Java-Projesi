@@ -19,7 +19,7 @@ Sınıf yazmaya doyduğunuz bir proje olması dileklerimle....
 
 ### Bed
 * Bed isminde bir sınıf yazınız.
-* Bed sınıfı için 5 tane ```instance variable``` style tipi String olmalı. ```pillows, height, sheets, quilt``` tipleri int olmalı. Hepsi private olmalı.
+* Bed sınıfı için 5 tane ```instance variable``` tanımlamalıyız. style tipi String olmalı. ```pillows, height, sheets, quilt``` tipleri int olmalı. Hepsi private olmalı.
 * Bed sınıfı için bir constructor yazmalıyız.
 * Bed sınıfı için 5 metod yazacağız. ```make``` herhangi bir return değeri olmayacak. Sadece 'The bed is being made.' mesajını ekrana basacak.
 * ```getPillows()``` pillows sayısını return etmeli. ```getHeight()``` height değerini return etmeli. ```getSheets()``` sheets sayısını return etmeli. ```getPillow()``` pillows sayısını return etmeli.
